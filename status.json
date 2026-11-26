@@ -1,8 +1,8 @@
 {
   "version": "0.3.6",
   "state": "building",
-  "text": "préparation des outils",
+  "text": "construction de l'APK (le plus long : ~15 min)",
   "apk": "",
   "run": "https://github.com/SionNoAries/nightcore-alarm/actions/runs/45733249718",
-  "at": 1795655095000
+  "at": 1795655156000
 }
