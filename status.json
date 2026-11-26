@@ -1,8 +1,8 @@
 {
-  "version": "0.3.5",
-  "state": "done",
-  "text": "APK publié",
-  "apk": "https://github.com/SionNoAries/nightcore-alarm-apk/releases/download/v0.3.5/nightcore-alarm-0.3.5.apk",
-  "run": "https://github.com/SionNoAries/nightcore-alarm/actions/runs/45396721371",
-  "at": 1795526062000
+  "version": "0.3.6",
+  "state": "building",
+  "text": "préparation des outils",
+  "apk": "",
+  "run": "https://github.com/SionNoAries/nightcore-alarm/actions/runs/45733249718",
+  "at": 1795655095000
 }
